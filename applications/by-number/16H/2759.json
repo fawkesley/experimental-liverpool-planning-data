@@ -14,7 +14,7 @@
     "description": "To erect single storey extension at side",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2016-11-25 01:21:34.214492",
+    "extract_datetime": "2016-11-26 01:19:16.194986",
     "geo_easting": 340703,
     "geo_northing": 388091,
     "northgate_id": 1020902,
@@ -23,6 +23,6 @@
     "postcode": "L18 3HF",
     "received_date": "2016-11-07",
     "site_address": "24 Lynnbank Road, Liverpool, L18 3HF",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1020902&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1020902&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Church"
 }
