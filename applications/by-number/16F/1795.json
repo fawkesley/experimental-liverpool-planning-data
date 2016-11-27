@@ -16,6 +16,8 @@
     "development_type": "res dev:10+ units/over 0.5ha",
     "extract_datetime": "2016-11-20 18:14:39.991969",
     "geo_easting": 334853,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 388697,
     "northgate_id": 1004060,
     "parishes": "City South",

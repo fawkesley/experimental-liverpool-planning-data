@@ -16,6 +16,8 @@
     "development_type": "advert:projecting sign non-ill",
     "extract_datetime": "2016-11-20 18:51:27.793917",
     "geo_easting": 334771,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 390645,
     "northgate_id": 991240,
     "parishes": "City Centre",

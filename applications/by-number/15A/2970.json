@@ -16,6 +16,8 @@
     "development_type": "advert: Fascia (non-illum), advert:projecting sign non-ill",
     "extract_datetime": "2016-11-20 18:14:37.964484",
     "geo_easting": 334734,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 390125,
     "northgate_id": 971260,
     "parishes": "City Centre",

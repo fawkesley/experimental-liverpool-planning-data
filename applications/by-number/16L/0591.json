@@ -16,6 +16,8 @@
     "development_type": "advert: hoarding (non-illum)",
     "extract_datetime": "2016-11-20 18:18:10.132854",
     "geo_easting": 334911,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 390174,
     "northgate_id": 985300,
     "parishes": "City Centre",

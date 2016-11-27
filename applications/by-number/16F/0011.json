@@ -16,6 +16,8 @@
     "development_type": "earthworks: (mixed/other)",
     "extract_datetime": "2016-11-20 18:52:55.146765",
     "geo_easting": 336921,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 390047,
     "northgate_id": 975103,
     "parishes": "City North",

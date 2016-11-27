@@ -16,6 +16,8 @@
     "development_type": "aerial/mast",
     "extract_datetime": "2016-11-20 18:08:02.545165",
     "geo_easting": 341909,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 386388,
     "northgate_id": 1009781,
     "parishes": "City South",

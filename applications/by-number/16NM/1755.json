@@ -16,6 +16,8 @@
     "development_type": "extension/addition: 1-storey",
     "extract_datetime": "2016-11-20 18:05:12.106873",
     "geo_easting": 339832,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 389863,
     "northgate_id": 1004740,
     "parishes": "City South",

@@ -16,6 +16,8 @@
     "development_type": "means of enclosure",
     "extract_datetime": "2016-11-20 18:51:43.287587",
     "geo_easting": 335707,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 389460,
     "northgate_id": 1006860,
     "parishes": "City Centre",

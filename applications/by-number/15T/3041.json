@@ -16,6 +16,8 @@
     "development_type": "Treeworks",
     "extract_datetime": "2016-11-20 18:09:27.512528",
     "geo_easting": 336893,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 388387,
     "northgate_id": 972142,
     "parishes": "City South",

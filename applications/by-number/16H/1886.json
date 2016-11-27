@@ -16,6 +16,8 @@
     "development_type": "conversion (not COU)",
     "extract_datetime": "2016-11-20 18:18:40.732139",
     "geo_easting": 342544,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 387645,
     "northgate_id": 1005440,
     "parishes": "City South",

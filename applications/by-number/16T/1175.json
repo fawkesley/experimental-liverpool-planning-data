@@ -16,6 +16,8 @@
     "development_type": "Treeworks",
     "extract_datetime": "2016-11-20 18:15:10.269296",
     "geo_easting": 334673,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 389541,
     "northgate_id": 993460,
     "parishes": "City Centre",

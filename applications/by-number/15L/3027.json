@@ -16,6 +16,8 @@
     "development_type": "alterations to building",
     "extract_datetime": "2016-11-20 18:07:33.261006",
     "geo_easting": 334908,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 390253,
     "northgate_id": 973340,
     "parishes": "City Centre",

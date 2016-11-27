@@ -16,6 +16,8 @@
     "development_type": "change of use (inc buildings)",
     "extract_datetime": "2016-11-20 18:12:41.309314",
     "geo_easting": 339271,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 387360,
     "northgate_id": 985423,
     "parishes": "City South",

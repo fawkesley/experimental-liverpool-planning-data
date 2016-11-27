@@ -16,6 +16,8 @@
     "development_type": "advert: Fascia (non-illum)",
     "extract_datetime": "2016-11-20 18:05:38.227358",
     "geo_easting": 335218,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 387718,
     "northgate_id": 974680,
     "parishes": "City South",

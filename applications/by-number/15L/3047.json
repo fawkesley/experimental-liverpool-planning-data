@@ -16,6 +16,8 @@
     "development_type": "Unknown",
     "extract_datetime": "2016-11-20 18:19:58.183573",
     "geo_easting": 335939,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 389978,
     "northgate_id": 973740,
     "parishes": "City Centre",

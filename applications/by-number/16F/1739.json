@@ -16,6 +16,8 @@
     "development_type": "demolition, res dev:10+ units/over 0.5ha",
     "extract_datetime": "2016-11-20 18:16:20.784922",
     "geo_easting": 334445,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 391195,
     "northgate_id": 1002241,
     "parishes": "City Centre",

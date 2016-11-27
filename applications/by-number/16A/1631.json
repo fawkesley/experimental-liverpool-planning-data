@@ -16,6 +16,8 @@
     "development_type": "advert: Freestanding (illum)",
     "extract_datetime": "2016-11-20 18:03:44.473561",
     "geo_easting": 340031,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 391368,
     "northgate_id": 1000462,
     "parishes": "City North",

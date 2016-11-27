@@ -16,6 +16,8 @@
     "development_type": "shop front",
     "extract_datetime": "2016-11-20 18:08:36.050529",
     "geo_easting": 334729,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 390122,
     "northgate_id": 978820,
     "parishes": "City Centre",

@@ -16,6 +16,8 @@
     "development_type": "alterations to building",
     "extract_datetime": "2016-11-20 18:09:03.782779",
     "geo_easting": 339133,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 388748,
     "northgate_id": 1003460,
     "parishes": "City North",

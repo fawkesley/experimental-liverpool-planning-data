@@ -16,6 +16,8 @@
     "development_type": "Unknown",
     "extract_datetime": "2016-11-20 18:50:28.239145",
     "geo_easting": 338898,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 397656,
     "northgate_id": 980100,
     "parishes": null,

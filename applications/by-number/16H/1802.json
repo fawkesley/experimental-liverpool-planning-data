@@ -16,6 +16,8 @@
     "development_type": "extension/alt(s) to roof",
     "extract_datetime": "2016-11-20 18:52:57.776402",
     "geo_easting": 342264,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 387197,
     "northgate_id": 1005381,
     "parishes": "City South",

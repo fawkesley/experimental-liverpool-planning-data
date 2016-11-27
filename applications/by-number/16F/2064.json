@@ -16,6 +16,8 @@
     "development_type": "new dwelling (single)",
     "extract_datetime": "2016-11-20 18:05:04.469483",
     "geo_easting": 340421,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 385453,
     "northgate_id": 1009840,
     "parishes": "City South",

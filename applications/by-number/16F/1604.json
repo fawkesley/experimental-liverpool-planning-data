@@ -16,6 +16,8 @@
     "development_type": "shop front",
     "extract_datetime": "2016-11-20 18:03:25.435908",
     "geo_easting": 339464,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 388360,
     "northgate_id": 1000141,
     "parishes": "City South",

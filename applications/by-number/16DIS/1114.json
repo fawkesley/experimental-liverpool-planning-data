@@ -16,6 +16,8 @@
     "development_type": "New Building (Dwelling)",
     "extract_datetime": "2016-11-20 18:12:55.662144",
     "geo_easting": 334259,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 391809,
     "northgate_id": 977062,
     "parishes": "City North",

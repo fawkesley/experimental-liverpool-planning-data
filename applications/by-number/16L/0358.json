@@ -16,6 +16,8 @@
     "development_type": "extension/addition: 1-storey",
     "extract_datetime": "2016-11-20 18:51:57.759752",
     "geo_easting": 335384,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 389757,
     "northgate_id": 981240,
     "parishes": "City Centre",

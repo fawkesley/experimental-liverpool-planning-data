@@ -16,6 +16,8 @@
     "development_type": "means of enclosure",
     "extract_datetime": "2016-11-20 18:14:06.799704",
     "geo_easting": 337589,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 389494,
     "northgate_id": 1005543,
     "parishes": "City North",

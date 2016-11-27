@@ -16,6 +16,8 @@
     "development_type": "Unknown",
     "extract_datetime": "2016-11-20 18:13:25.948693",
     "geo_easting": 335387,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 393275,
     "northgate_id": 995220,
     "parishes": "City North",

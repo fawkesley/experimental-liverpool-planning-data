@@ -16,6 +16,8 @@
     "development_type": "demolition",
     "extract_datetime": "2016-11-20 18:16:54.200354",
     "geo_easting": 338089,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 396303,
     "northgate_id": 999860,
     "parishes": "City North",

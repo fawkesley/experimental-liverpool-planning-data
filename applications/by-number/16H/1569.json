@@ -16,6 +16,8 @@
     "development_type": "satellite dish",
     "extract_datetime": "2016-11-20 18:18:23.008252",
     "geo_easting": 339856,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 389906,
     "northgate_id": 998501,
     "parishes": "City South",

@@ -16,6 +16,8 @@
     "development_type": "means of enclosure, mobile building/structure(s)",
     "extract_datetime": "2016-11-20 18:51:32.135562",
     "geo_easting": 339868,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 395043,
     "northgate_id": 1002640,
     "parishes": "City North",

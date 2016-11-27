@@ -16,6 +16,8 @@
     "development_type": "res dev:2-9 units/under 0.5ha",
     "extract_datetime": "2016-11-20 18:15:45.463678",
     "geo_easting": 335369,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 390623,
     "northgate_id": 1005260,
     "parishes": "City Centre",

@@ -16,6 +16,8 @@
     "development_type": "means of enclosure",
     "extract_datetime": "2016-11-20 18:02:55.765982",
     "geo_easting": 337828,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 386540,
     "northgate_id": 1009920,
     "parishes": "City South",

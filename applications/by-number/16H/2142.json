@@ -16,6 +16,8 @@
     "development_type": "alterations to house/flat, extension/addition: 2-storey, partial demolition",
     "extract_datetime": "2016-11-20 18:19:39.059765",
     "geo_easting": 335943,
+    "geo_latitude": null,
+    "geo_longitude": null,
     "geo_northing": 393228,
     "northgate_id": 1008500,
     "parishes": "City North",
