@@ -14,7 +14,7 @@
     "description": "To erect first floor extension at rear, convert garage into habitable room and extend porch",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2016-11-28 01:23:08.185277",
+    "extract_datetime": "2016-11-29 01:22:00.427887",
     "geo_easting": 341242,
     "geo_latitude": "53.3990669280415",
     "geo_longitude": "-2.88516139621601",
@@ -25,6 +25,6 @@
     "postcode": "L16 5EA",
     "received_date": "2016-11-01",
     "site_address": "152 Childwall Valley Road, Liverpool, L16 5EA",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1020600&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1020600&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Childwall"
 }
