@@ -14,7 +14,7 @@
     "description": "To install 2no velux windows in roof",
     "determination_level": null,
     "development_type": "window(s) (replacement/new)",
-    "extract_datetime": "2016-12-09 01:19:38.298402",
+    "extract_datetime": "2016-12-10 01:20:27.829584",
     "geo_easting": 342157,
     "geo_latitude": "53.3785148161217",
     "geo_longitude": "-2.8709801004147",
@@ -25,6 +25,6 @@
     "postcode": "L25 6DR",
     "received_date": "2016-11-24",
     "site_address": "Cotswold, Woolton Park, Liverpool, L25 6DR",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1023220&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1023220&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Woolton"
 }
