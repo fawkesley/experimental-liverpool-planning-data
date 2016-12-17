@@ -14,7 +14,7 @@
     "description": "To discharge conditions 3, 6, 7 & 8 attached to 16F/0262",
     "determination_level": null,
     "development_type": "Unknown",
-    "extract_datetime": "2016-12-16 01:20:28.249338",
+    "extract_datetime": "2016-12-17 01:20:06.235069",
     "geo_easting": 337345,
     "geo_latitude": "53.371871613445",
     "geo_longitude": "-2.9431707343782",
@@ -25,6 +25,6 @@
     "postcode": "L17 9QR",
     "received_date": "2016-11-21",
     "site_address": "2 Annesley Road, Liverpool, L17 9QR",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1022400&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1022400&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "St Michael's"
 }

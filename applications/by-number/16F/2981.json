@@ -14,7 +14,7 @@
     "description": "To change use of vacant retail unit to restaurant/hot food take-away (A3/A5).",
     "determination_level": null,
     "development_type": "change of use (inc buildings)",
-    "extract_datetime": "2016-12-16 01:18:59.471465",
+    "extract_datetime": "2016-12-17 01:20:48.683434",
     "geo_easting": 334295,
     "geo_latitude": "53.406919232108",
     "geo_longitude": "-2.98982659159021",
@@ -25,6 +25,6 @@
     "postcode": "L2 4TH",
     "received_date": "2016-12-06",
     "site_address": "10 Dale Street, Liverpool, L2 4TH",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1023920&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1023920&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Central"
 }
