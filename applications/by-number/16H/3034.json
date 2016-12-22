@@ -14,7 +14,7 @@
     "description": "To erect single storey extension at rear and two storey extension at side",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey, extension/addition: 2-storey",
-    "extract_datetime": "2016-12-21 01:22:16.401951",
+    "extract_datetime": "2016-12-22 01:21:42.610047",
     "geo_easting": 340186,
     "geo_latitude": "53.371392543276",
     "geo_longitude": "-2.90045925823646",
@@ -25,6 +25,6 @@
     "postcode": "L18 7HF",
     "received_date": "2016-12-12",
     "site_address": "120 Booker Avenue, Liverpool, L18 7HF",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1024600&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1024600&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Cressington"
 }

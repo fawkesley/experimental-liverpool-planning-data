@@ -14,7 +14,7 @@
     "description": "To demolish part of boundary wall to form 2 No. gated openings for public access.",
     "determination_level": null,
     "development_type": "demolition",
-    "extract_datetime": "2016-12-21 01:18:09.781306",
+    "extract_datetime": "2016-12-22 01:23:30.801389",
     "geo_easting": 342507,
     "geo_latitude": "53.3723696478756",
     "geo_longitude": "-2.86559401190586",
@@ -25,6 +25,6 @@
     "postcode": null,
     "received_date": "2016-12-09",
     "site_address": "Boundary wall to, St Julies and Woolton Woods, Liverpool, L25",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1024501&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1024501&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Woolton"
 }

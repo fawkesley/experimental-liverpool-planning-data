@@ -12,9 +12,9 @@
     "decision": null,
     "decision_date": null,
     "description": "To carry out tree worls in a conservation area",
-    "determination_level": null,
+    "determination_level": "Case Officer",
     "development_type": "Treeworks",
-    "extract_datetime": "2016-12-21 01:18:10.260829",
+    "extract_datetime": "2016-12-22 01:21:20.481632",
     "geo_easting": 337039,
     "geo_latitude": "53.3835816580058",
     "geo_longitude": "-2.94803016408304",
@@ -25,6 +25,6 @@
     "postcode": "L17 8TR",
     "received_date": "2016-12-12",
     "site_address": "12 Mannering Road, Liverpool, L17 8TR",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1025400&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1025400&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "St Michael's"
 }

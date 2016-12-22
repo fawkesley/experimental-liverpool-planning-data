@@ -14,7 +14,7 @@
     "description": "To retain replace front door and frame",
     "determination_level": null,
     "development_type": "window(s) (replacement/new)",
-    "extract_datetime": "2016-12-21 01:18:39.727129",
+    "extract_datetime": "2016-12-22 01:23:58.791862",
     "geo_easting": 338076,
     "geo_latitude": "53.3909213316157",
     "geo_longitude": "-2.93259978664283",
@@ -25,6 +25,6 @@
     "postcode": "L17 2AN",
     "received_date": "2016-12-09",
     "site_address": "15 Gresford Avenue, Liverpool, L17 2AN",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1025100&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1025100&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Greenbank"
 }

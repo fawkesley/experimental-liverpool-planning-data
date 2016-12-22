@@ -14,7 +14,7 @@
     "description": "To erect single storey extension at rear:\r\n\r\n- the extension will extend 6m beyond the original house;\r\n- the maximum height of the extension will be 3.8m;\r\n- the height of the extension to the eaves will be 2.5m.",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2016-12-21 01:18:45.212226",
+    "extract_datetime": "2016-12-22 01:21:37.009908",
     "geo_easting": 340008,
     "geo_latitude": "53.4229332812307",
     "geo_longitude": "-2.90422689571716",
@@ -25,6 +25,6 @@
     "postcode": "L12 2AT",
     "received_date": "2016-11-23",
     "site_address": "22 Whinfell Road, Liverpool, L12 2AT",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1023500&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1023500&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Knotty Ash"
 }

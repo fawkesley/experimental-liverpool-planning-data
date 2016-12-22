@@ -14,7 +14,7 @@
     "description": "To install additional door in replacement of existing window to front elevation.   Installation of access ramp.  Extend paving to front garden area and widen vehicular access.",
     "determination_level": null,
     "development_type": "alterations to building",
-    "extract_datetime": "2016-12-21 01:18:40.986457",
+    "extract_datetime": "2016-12-22 01:21:17.051589",
     "geo_easting": 336555,
     "geo_latitude": "53.414314156965",
     "geo_longitude": "-2.95599567699559",
@@ -25,6 +25,6 @@
     "postcode": "L6 9HG",
     "received_date": "2016-11-24",
     "site_address": "43 Schomberg Street, Liverpool , L6 9HG",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1022600&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1022600&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Kensington and Fairfield"
 }
