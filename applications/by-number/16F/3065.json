@@ -1,6 +1,6 @@
 {
     "agent": null,
-    "applicant": "Mr Clarke",
+    "applicant": "Clarke Residential",
     "application_number": "16F/3065",
     "application_number_provisional": null,
     "application_type": "Full Planning Permission",
@@ -14,7 +14,7 @@
     "description": "To convert building from 3 flats to 8 bed HMO.",
     "determination_level": null,
     "development_type": "conversion (not COU)",
-    "extract_datetime": "2016-12-22 01:20:58.780348",
+    "extract_datetime": "2016-12-23 01:20:41.619809",
     "geo_easting": 337565,
     "geo_latitude": "53.4220201437126",
     "geo_longitude": "-2.94096998662086",
