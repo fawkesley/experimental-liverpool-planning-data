@@ -14,7 +14,7 @@
     "description": "To erect single storey extension at rear, construction of pitched roof over existing 2 storey extension",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2016-12-23 01:19:58.772308",
+    "extract_datetime": "2016-12-24 01:21:08.267677",
     "geo_easting": 339385,
     "geo_latitude": "53.3663669885731",
     "geo_longitude": "-2.91239103544064",
@@ -25,6 +25,6 @@
     "postcode": "L19 9BN",
     "received_date": "2016-12-19",
     "site_address": "45 Aigburth Hall Road, Liverpool, L19 9BN",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1025602&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1025602&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Cressington"
 }

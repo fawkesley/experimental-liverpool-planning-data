@@ -14,7 +14,7 @@
     "description": "To display replacement illuminated and non illuminated signage",
     "determination_level": null,
     "development_type": "advert: mixed/other",
-    "extract_datetime": "2016-12-23 01:22:24.861041",
+    "extract_datetime": "2016-12-24 01:21:02.040218",
     "geo_easting": 340050,
     "geo_latitude": "53.3713860913002",
     "geo_longitude": "-2.90250323007314",
@@ -25,6 +25,6 @@
     "postcode": "L18 7HN",
     "received_date": "2016-12-14",
     "site_address": "The Greenhills, Greenhill Road, Liverpool, L18 7HN",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1025042&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1025042&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Church"
 }

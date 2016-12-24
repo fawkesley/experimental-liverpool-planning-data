@@ -14,7 +14,7 @@
     "description": "To change from shop with flats to 4no. flats",
     "determination_level": null,
     "development_type": "change of use (inc buildings)",
-    "extract_datetime": "2016-12-23 01:18:22.019314",
+    "extract_datetime": "2016-12-24 01:24:02.642340",
     "geo_easting": 336038,
     "geo_latitude": "53.3891501513017",
     "geo_longitude": "-2.96320548857134",
@@ -25,6 +25,6 @@
     "postcode": "L8 8AG",
     "received_date": "2016-12-12",
     "site_address": "116 - 118 North Hill Street, Liverpool, L8 8AG",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1024741&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1024741&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Princes Park"
 }

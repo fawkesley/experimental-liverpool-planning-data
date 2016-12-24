@@ -14,7 +14,7 @@
     "description": "To convert former church to apartments",
     "determination_level": null,
     "development_type": "alterations to building",
-    "extract_datetime": "2016-12-23 01:20:29.040835",
+    "extract_datetime": "2016-12-24 01:21:54.510985",
     "geo_easting": 339392,
     "geo_latitude": "53.3613168341688",
     "geo_longitude": "-2.91217793148983",
@@ -25,6 +25,6 @@
     "postcode": "L19 0NU",
     "received_date": "2016-12-15",
     "site_address": "St Austins R C Church, Aigburth Road, Liverpool, L19 0NU",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1026360&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1026360&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Cressington"
 }
