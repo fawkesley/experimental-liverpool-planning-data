@@ -14,7 +14,7 @@
     "description": "To discharge consitions 6, 7, 10 & 11 attached to 15O/2707",
     "determination_level": null,
     "development_type": "Unknown",
-    "extract_datetime": "2017-01-05 01:18:25.035556",
+    "extract_datetime": "2017-01-06 01:20:59.101309",
     "geo_easting": 334892,
     "geo_latitude": "53.3938360264172",
     "geo_longitude": "-2.980545096139",
@@ -25,6 +25,6 @@
     "postcode": "L8 5RW",
     "received_date": "2016-12-14",
     "site_address": "32 - 34 Parliament Street, Liverpool, L8 5RW",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1025302&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1025302&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Riverside"
 }
