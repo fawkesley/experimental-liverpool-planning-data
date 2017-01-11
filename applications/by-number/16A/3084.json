@@ -6,7 +6,7 @@
     "application_type": "Advertisement",
     "case_officer_name": "Sonjia Eccleston",
     "case_officer_number": null,
-    "comments_until_date": "2016-12-16",
+    "comments_until_date": "2017-01-10",
     "committee_date": null,
     "current_status": "REGISTERED",
     "decision": null,
@@ -14,7 +14,7 @@
     "description": "To replace ATM surround sign with illuminated surround sign.",
     "determination_level": null,
     "development_type": "access; (pedestrian)",
-    "extract_datetime": "2017-01-10 01:21:35.880171",
+    "extract_datetime": "2017-01-11 01:19:34.783555",
     "geo_easting": 339993,
     "geo_latitude": "53.4155529111474",
     "geo_longitude": "-2.90429596890993",
@@ -24,7 +24,7 @@
     "planning_officer_name": "Sonjia Eccleston",
     "postcode": "L14 1PW",
     "received_date": "2016-12-16",
-    "site_address": "22 East Prescot Road, Liverpool , L14 1PW",
+    "site_address": "20-22 East Prescot Road, Liverpool , L14 1PW",
     "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1025480&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Knotty Ash"
 }
