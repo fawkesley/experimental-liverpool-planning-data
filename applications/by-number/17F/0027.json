@@ -14,7 +14,7 @@
     "description": "To erect single storey detached dwelling",
     "determination_level": null,
     "development_type": "New Building (Dwelling)",
-    "extract_datetime": "2017-01-11 01:19:23.802506",
+    "extract_datetime": "2017-01-12 01:21:15.306527",
     "geo_easting": 340422,
     "geo_latitude": "53.4044032725328",
     "geo_longitude": "-2.89760649340072",
@@ -25,6 +25,6 @@
     "postcode": "L16 6AD",
     "received_date": "2016-12-21",
     "site_address": "32a Sulgrave Close, Liverpool, L16 6AD",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1026300&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1026300&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Childwall"
 }

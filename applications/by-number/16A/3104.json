@@ -14,7 +14,7 @@
     "description": "To display various illuminated signage, including two sets of individual letters, a projecting sign and an internal suspended sign.",
     "determination_level": null,
     "development_type": "advert: mixed/other",
-    "extract_datetime": "2017-01-11 01:22:03.511159",
+    "extract_datetime": "2017-01-12 01:21:47.802671",
     "geo_easting": 334908,
     "geo_latitude": "53.4050630650767",
     "geo_longitude": "-2.9805626374542",
@@ -25,6 +25,6 @@
     "postcode": "L1 1JW",
     "received_date": "2016-12-14",
     "site_address": "21-23 Ranelagh Street, Liverpool, L1 1JW",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1025306&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1025306&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Central"
 }
