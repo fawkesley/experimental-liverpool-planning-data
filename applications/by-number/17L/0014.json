@@ -14,7 +14,7 @@
     "description": "To erect single storey extension at side, porch at front and detached double garage",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2017-01-16 01:20:30.278551",
+    "extract_datetime": "2017-01-17 01:21:08.303701",
     "geo_easting": 337519,
     "geo_latitude": "53.3718742767546",
     "geo_longitude": "-2.94055549903815",
@@ -25,6 +25,6 @@
     "postcode": "L17 5AH",
     "received_date": "2016-12-20",
     "site_address": "8a Fulwood Park, Liverpool, L17 5AH",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1026100&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1026100&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "St Michael's"
 }
