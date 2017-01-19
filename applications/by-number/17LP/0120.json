@@ -14,7 +14,7 @@
     "description": "Application for lawful development certificate for proposed loft conversion",
     "determination_level": null,
     "development_type": "extension/alt(s) to roof",
-    "extract_datetime": "2017-01-18 01:18:21.556793",
+    "extract_datetime": "2017-01-19 01:21:43.710476",
     "geo_easting": 339050,
     "geo_latitude": "53.3709119935354",
     "geo_longitude": "-2.91752325439128",
@@ -25,6 +25,6 @@
     "postcode": "L18 4PW",
     "received_date": "2017-01-16",
     "site_address": "10 Rangemore Road, Liverpool, L18 4PW",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1029600&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1029600&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Mossley Hill"
 }

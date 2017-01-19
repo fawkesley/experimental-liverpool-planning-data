@@ -14,7 +14,7 @@
     "description": "To carry out tree works",
     "determination_level": null,
     "development_type": "Treeworks",
-    "extract_datetime": "2017-01-18 01:20:00.346837",
+    "extract_datetime": "2017-01-19 01:20:17.726750",
     "geo_easting": 336806,
     "geo_latitude": "53.3811272030729",
     "geo_longitude": "-2.95147847844638",
@@ -25,6 +25,6 @@
     "postcode": "L17 8TE",
     "received_date": "2017-01-05",
     "site_address": "22 Alexandra Drive, Liverpool, L17 8TE",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1028202&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1028202&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "St Michael's"
 }

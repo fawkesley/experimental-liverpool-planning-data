@@ -14,7 +14,7 @@
     "description": "To erect new brick wall with steel railings above, timber fencing and gates, steel gates, bin stores, paving, edging and grassed areas",
     "determination_level": null,
     "development_type": "means of enclosure",
-    "extract_datetime": "2017-01-18 01:19:38.406185",
+    "extract_datetime": "2017-01-19 01:23:55.198795",
     "geo_easting": 340965,
     "geo_latitude": "53.3647846012162",
     "geo_longitude": "-2.88861316631257",
@@ -25,6 +25,6 @@
     "postcode": "L19 4TU",
     "received_date": "2017-01-06",
     "site_address": "3 - 51 Springwood Avenue, Liverpool, L19 4TU",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1028421&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1028421&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Allerton and Hunts Cross"
 }

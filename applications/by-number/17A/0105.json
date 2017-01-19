@@ -14,7 +14,7 @@
     "description": "To display 1no. internally illuminated fascia sign and 1no. internally illuminated projection sign",
     "determination_level": null,
     "development_type": "advert: Fascia (illum), advert:projecting sign illum",
-    "extract_datetime": "2017-01-18 01:18:18.975887",
+    "extract_datetime": "2017-01-19 01:24:44.241977",
     "geo_easting": 339492,
     "geo_latitude": "53.3878772604395",
     "geo_longitude": "-2.91124220197132",
@@ -25,6 +25,6 @@
     "postcode": "L18 1LW",
     "received_date": "2017-01-10",
     "site_address": "76 Allerton Road, Liverpool, L18 1LW",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1028780&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1028780&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Church"
 }
