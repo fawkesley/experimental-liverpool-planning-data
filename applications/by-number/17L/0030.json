@@ -14,7 +14,7 @@
     "description": "To carry out internal alterations in connection with change of use to a cocktail bar.",
     "determination_level": null,
     "development_type": "alterations to building",
-    "extract_datetime": "2017-01-20 01:19:56.372271",
+    "extract_datetime": "2017-01-21 01:23:12.484027",
     "geo_easting": 334586,
     "geo_latitude": "53.4087888321734",
     "geo_longitude": "-2.98549234952722",
@@ -24,7 +24,7 @@
     "planning_officer_name": "Barbara Richards",
     "postcode": "L1 6DQ",
     "received_date": "2016-12-29",
-    "site_address": "Units 2, 3 and 4 Westminster Chambers , Crosshall Street, Liverpool, L1 6DQ",
+    "site_address": "Units 2 and 3 Westminster Chambers , Crosshall Street, Liverpool, L1 6DQ  **Amended site address**",
     "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1028560&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Central"
 }

@@ -14,7 +14,7 @@
     "description": "To erect two storey extension at side and rear, single storey extension at rear",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey, extension/addition: 2-storey",
-    "extract_datetime": "2017-01-20 01:19:49.154813",
+    "extract_datetime": "2017-01-21 01:23:35.157228",
     "geo_easting": 339841,
     "geo_latitude": "53.3919525664163",
     "geo_longitude": "-2.90608119683953",
@@ -25,6 +25,6 @@
     "postcode": "L18 0HW",
     "received_date": "2017-01-11",
     "site_address": "34 Sinclair Drive, Liverpool, L18 0HW",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1029140&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1029140&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Church"
 }

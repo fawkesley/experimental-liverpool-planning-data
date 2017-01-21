@@ -14,7 +14,7 @@
     "description": "To display 1no. V stack advertisement board",
     "determination_level": null,
     "development_type": "advert: mixed/other",
-    "extract_datetime": "2017-01-20 01:22:05.191112",
+    "extract_datetime": "2017-01-21 01:22:10.552296",
     "geo_easting": 341319,
     "geo_latitude": "53.380516318265",
     "geo_longitude": "-2.88361893950419",
@@ -25,6 +25,6 @@
     "postcode": "L25 6EF",
     "received_date": "2017-01-10",
     "site_address": "Land off Beaconsfield Road, Beaconsfield Road, Liverpool, L25 6EF",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1028660&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1028660&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Woolton"
 }

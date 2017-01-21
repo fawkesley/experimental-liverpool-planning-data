@@ -14,7 +14,7 @@
     "description": "To display 1no. internally illuminated fascia sign and 1no. internally illuminated projecting sign",
     "determination_level": null,
     "development_type": "advert: Fascia (illum), advert:projecting sign illum",
-    "extract_datetime": "2017-01-20 01:18:08.197142",
+    "extract_datetime": "2017-01-21 01:23:45.297369",
     "geo_easting": 337716,
     "geo_latitude": "53.3698394600539",
     "geo_longitude": "-2.93754980948797",
@@ -25,6 +25,6 @@
     "postcode": "L17 5AR",
     "received_date": "2017-01-03",
     "site_address": "Aigburth Pharmacy, 2A Jericho Lane, Liverpool, L17 5AR",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1027740&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1027740&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Mossley Hill"
 }
