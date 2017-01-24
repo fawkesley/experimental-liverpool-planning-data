@@ -14,7 +14,7 @@
     "description": "To erect new single dwelling",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2017-01-23 01:19:31.565564",
+    "extract_datetime": "2017-01-24 01:24:00.856822",
     "geo_easting": 342286,
     "geo_latitude": "53.3763629502157",
     "geo_longitude": "-2.86899706261827",
@@ -25,6 +25,6 @@
     "postcode": "L25 6DD",
     "received_date": "2017-01-16",
     "site_address": "Court Cottage, off Church Road, Liverpool, L25 6DD",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1029500&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1029500&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Woolton"
 }
