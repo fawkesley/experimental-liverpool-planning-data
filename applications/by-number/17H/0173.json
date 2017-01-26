@@ -6,7 +6,7 @@
     "application_type": "Household",
     "case_officer_name": "Kate Mawdsley",
     "case_officer_number": null,
-    "comments_until_date": "2017-01-23",
+    "comments_until_date": "2017-02-15",
     "committee_date": null,
     "current_status": "REGISTERED",
     "decision": null,
@@ -14,7 +14,7 @@
     "description": "To retain hard paving at front, boundary wall at front and motorised gates",
     "determination_level": null,
     "development_type": "means of enclosure",
-    "extract_datetime": "2017-01-25 01:20:30.556751",
+    "extract_datetime": "2017-01-26 01:21:36.530591",
     "geo_easting": 341597,
     "geo_latitude": "53.3866137605831",
     "geo_longitude": "-2.87956535373422",
@@ -25,6 +25,6 @@
     "postcode": "L25 4SX",
     "received_date": "2017-01-23",
     "site_address": "391 Woolton Road, Liverpool, L25 4SX",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1030280&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1030280&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Woolton"
 }

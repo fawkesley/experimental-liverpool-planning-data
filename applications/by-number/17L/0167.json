@@ -14,7 +14,7 @@
     "description": "To change use of basement from sui generis to assembly and leisure (D2).",
     "determination_level": null,
     "development_type": "change of use (inc buildings)",
-    "extract_datetime": "2017-01-25 01:19:54.408779",
+    "extract_datetime": "2017-01-26 01:21:23.793466",
     "geo_easting": 334436,
     "geo_latitude": "53.4074850161775",
     "geo_longitude": "-2.98771866124496",
@@ -25,6 +25,6 @@
     "postcode": "L1 6AF",
     "received_date": "2017-01-23",
     "site_address": "Basement, 14-16 Stanley Street, Liverpool, L1 6AF",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1030200&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1030200&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Central"
 }
