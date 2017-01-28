@@ -14,7 +14,7 @@
     "description": "To erect external escape staircase within playground",
     "determination_level": null,
     "development_type": "external staircase",
-    "extract_datetime": "2017-01-27 01:22:26.071730",
+    "extract_datetime": "2017-01-28 01:20:20.701584",
     "geo_easting": 341248,
     "geo_latitude": "53.3813262755762",
     "geo_longitude": "-2.88470310514016",
@@ -25,6 +25,6 @@
     "postcode": "L25 6EF",
     "received_date": "2017-01-10",
     "site_address": "Lower Lee Special School, Beaconsfield Road, Liverpool, L25 6EF",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1029120&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1029120&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Woolton"
 }
