@@ -14,7 +14,7 @@
     "description": "To carry out improvement works including new brick walls with steel railings above. New timber fencing with gates. New steel gates and new bin store zones.",
     "determination_level": null,
     "development_type": "alterations to house/flat",
-    "extract_datetime": "2017-01-30 01:21:02.256437",
+    "extract_datetime": "2017-01-31 01:19:37.587423",
     "geo_easting": 338553,
     "geo_latitude": "53.3994702338399",
     "geo_longitude": "-2.92561261437254",
@@ -25,6 +25,6 @@
     "postcode": "L15 4JN",
     "received_date": "2017-01-09",
     "site_address": "1-14 Wellington Road , Liverpool , L15 4JN",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1029260&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1029260&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Wavertree"
 }
