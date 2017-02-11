@@ -14,7 +14,7 @@
     "description": "To erect first floor extension at side over existing garage and dormer extension at rear",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2017-02-10 01:20:20.042435",
+    "extract_datetime": "2017-02-11 01:20:20.615035",
     "geo_easting": 339177,
     "geo_latitude": "53.384991996877",
     "geo_longitude": "-2.91591660050572",
@@ -25,6 +25,6 @@
     "postcode": "L18 1JN",
     "received_date": "2017-01-30",
     "site_address": "144 Queens Drive, Liverpool, L18 1JN",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1030760&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1030760&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Church"
 }
