@@ -14,7 +14,7 @@
     "description": "To vary condition 5 attached to 08F/2206 (To use premises as a daytime coffee shop) so as to allow to open from 09.00 hours to 22.00 hours Monday-Sunday",
     "determination_level": null,
     "development_type": "condition: (variation of)",
-    "extract_datetime": "2017-02-12 01:18:54.536031",
+    "extract_datetime": "2017-02-13 01:24:09.212896",
     "geo_easting": 343082,
     "geo_latitude": "53.3704727200481",
     "geo_longitude": "-2.85691338657052",
@@ -25,6 +25,6 @@
     "postcode": "L25 9ND",
     "received_date": "2017-01-16",
     "site_address": "271 Hunts Cross Avenue, Liverpool, L25 9ND",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1029580&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1029580&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Allerton and Hunts Cross"
 }
