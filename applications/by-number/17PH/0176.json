@@ -12,9 +12,9 @@
     "decision": null,
     "decision_date": null,
     "description": "To erect single storey extension to the rear. \r\n- The extension will extend 4.72m beyond the original house \r\n-The maximum height of the extension will be 3.2m \r\n-The height of the extension to the eaves will be 2.7m",
-    "determination_level": null,
+    "determination_level": "Case Officer",
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2017-02-13 01:20:21.062553",
+    "extract_datetime": "2017-02-14 01:21:39.072541",
     "geo_easting": 339283,
     "geo_latitude": "53.3743990333393",
     "geo_longitude": "-2.91409593094698",
@@ -25,6 +25,6 @@
     "postcode": "L18 4RF",
     "received_date": "2017-01-23",
     "site_address": "91 Brodie Avenue, Liverpool, L18 4RF",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1030340&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1030340&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Mossley Hill"
 }
