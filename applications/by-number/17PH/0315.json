@@ -14,7 +14,7 @@
     "description": "To erect single storey extension to the rear. \r\n- The extension will extend 4.523m beyond the original house \r\n-The maximum height of the extension will be 4.4m \r\n-The height of the extension to the eaves will be 2.1m",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2017-02-15 01:21:15.826500",
+    "extract_datetime": "2017-02-16 01:21:39.486224",
     "geo_easting": 340513,
     "geo_latitude": "53.3929725215153",
     "geo_longitude": "-2.89599745759189",
@@ -25,6 +25,6 @@
     "postcode": "L16 8NJ",
     "received_date": "2017-02-08",
     "site_address": "67 Green Lane North, Liverpool, L16 8NJ",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1032540&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1032540&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Childwall"
 }

@@ -14,7 +14,7 @@
     "description": "To erect single storey extension",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2017-02-15 01:18:16.094642",
+    "extract_datetime": "2017-02-16 01:25:31.627145",
     "geo_easting": 342314,
     "geo_latitude": "53.3575010978646",
     "geo_longitude": "-2.86819248010362",
@@ -25,6 +25,6 @@
     "postcode": "L24 9GB",
     "received_date": "2017-02-06",
     "site_address": "McDonald's Restaurant, Hunts Cross Shopping Park, Liverpool, L24 9GB",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1031660&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1031660&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Allerton and Hunts Cross"
 }

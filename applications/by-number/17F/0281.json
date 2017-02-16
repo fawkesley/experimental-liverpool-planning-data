@@ -14,7 +14,7 @@
     "description": "To replace shopfront, erect single storey extension to the front, install new sliding doors and carry out external alterations.",
     "determination_level": null,
     "development_type": "alterations to building",
-    "extract_datetime": "2017-02-15 01:19:44.408354",
+    "extract_datetime": "2017-02-16 01:21:20.845839",
     "geo_easting": 334886,
     "geo_latitude": "53.4050064234947",
     "geo_longitude": "-2.98089226197255",
@@ -25,6 +25,6 @@
     "postcode": "L1 1QR",
     "received_date": "2017-01-26",
     "site_address": "Unit 2B, Clayton Square, Liverpool, L1 1QR",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1030562&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1030562&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Central"
 }
