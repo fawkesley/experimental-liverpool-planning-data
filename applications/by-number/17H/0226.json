@@ -14,7 +14,7 @@
     "description": "To erect two storey extension at side and single storey extension at rear upon demolition of existing garage, erect porch extension at front and associated external alterations",
     "determination_level": null,
     "development_type": "extension/addition: 2-storey",
-    "extract_datetime": "2017-02-17 01:20:58.196250",
+    "extract_datetime": "2017-02-18 01:24:16.386697",
     "geo_easting": 342652,
     "geo_latitude": "53.3854353808247",
     "geo_longitude": "-2.86367900725175",
@@ -25,6 +25,6 @@
     "postcode": "L25 3QL",
     "received_date": "2017-01-23",
     "site_address": "22 Ashurst Close, Liverpool, L25 3QL",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1030387&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1030387&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Woolton"
 }

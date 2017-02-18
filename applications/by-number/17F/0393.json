@@ -14,7 +14,7 @@
     "description": "To retain 2 single storey Portakabin buildings for a further 5 years.",
     "determination_level": null,
     "development_type": "mobile building/structure(s)",
-    "extract_datetime": "2017-02-17 01:18:11.837598",
+    "extract_datetime": "2017-02-18 01:24:14.005047",
     "geo_easting": 343483,
     "geo_latitude": "53.3518215844",
     "geo_longitude": "-2.85051482631484",
@@ -25,6 +25,6 @@
     "postcode": "L24 9HP",
     "received_date": "2017-02-09",
     "site_address": "Wellington House, Physics Road, Liverpool, L24 9HP",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1032260&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1032260&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Speke-Garston"
 }
