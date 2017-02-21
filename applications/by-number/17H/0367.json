@@ -14,7 +14,7 @@
     "description": "To erect single storey extension to side/rear",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2017-02-20 01:23:59.866625",
+    "extract_datetime": "2017-02-21 01:23:38.147103",
     "geo_easting": 339532,
     "geo_latitude": "53.4097033088341",
     "geo_longitude": "-2.91110701142557",
@@ -25,6 +25,6 @@
     "postcode": "L13 4BN",
     "received_date": "2017-02-06",
     "site_address": "39 West Oakhill Park, Old Swan, Liverpool, L13 4BN",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1033320&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1033320&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Old Swan"
 }
