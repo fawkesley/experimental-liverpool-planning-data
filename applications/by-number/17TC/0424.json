@@ -14,7 +14,7 @@
     "description": "To carry out tree works.",
     "determination_level": "Case Officer",
     "development_type": "Treeworks",
-    "extract_datetime": "2017-02-22 01:17:35.985630",
+    "extract_datetime": "2017-02-24 01:19:16.573943",
     "geo_easting": 339189,
     "geo_latitude": "53.3924619305354",
     "geo_longitude": "-2.91589656060214",
@@ -25,6 +25,6 @@
     "postcode": "L15 9EE",
     "received_date": "2017-02-20",
     "site_address": "The Blue Coat School , Church Road , Wavertree , L15 9EE",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1034220&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1034220&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Wavertree"
 }
