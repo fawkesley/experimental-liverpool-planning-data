@@ -14,7 +14,7 @@
     "description": "To carry out partial refurbishment works, including works to two existing lobbies, convert entrance to fire exit and replace entrance doors.",
     "determination_level": null,
     "development_type": "alterations to building",
-    "extract_datetime": "2017-02-24 01:18:31.399016",
+    "extract_datetime": "2017-02-25 01:25:41.299559",
     "geo_easting": 334249,
     "geo_latitude": "53.4094299095821",
     "geo_longitude": "-2.99057690646572",
@@ -25,6 +25,6 @@
     "postcode": null,
     "received_date": "2017-02-07",
     "site_address": "Exchange Station, Tithebarn Street, Liverpool, L2",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1033860&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1033860&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Central"
 }

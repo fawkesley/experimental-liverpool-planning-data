@@ -14,7 +14,7 @@
     "description": "To erect single storey extension to side and rear",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2017-02-24 01:21:08.321000",
+    "extract_datetime": "2017-02-25 01:23:03.751077",
     "geo_easting": 340787,
     "geo_latitude": "53.3995732177081",
     "geo_longitude": "-2.89201516240151",
@@ -25,6 +25,6 @@
     "postcode": "L16 6AY",
     "received_date": "2017-01-31",
     "site_address": "57 Okehampton Road, Liverpool, L16 6AY",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1031022&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1031022&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Childwall"
 }

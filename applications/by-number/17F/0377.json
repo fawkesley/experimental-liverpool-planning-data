@@ -14,7 +14,7 @@
     "description": "To carry out external alterations, including cladding and new windows.",
     "determination_level": null,
     "development_type": "alterations to building",
-    "extract_datetime": "2017-02-24 01:22:10.001898",
+    "extract_datetime": "2017-02-25 01:19:53.414393",
     "geo_easting": 334181,
     "geo_latitude": "53.4086664942752",
     "geo_longitude": "-2.99158212007817",
@@ -25,6 +25,6 @@
     "postcode": "L2 2LZ",
     "received_date": "2017-02-07",
     "site_address": "Silkhouse Court, Tithebarn Street, Liverpool, L2 2LZ",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1032162&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1032162&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Central"
 }
