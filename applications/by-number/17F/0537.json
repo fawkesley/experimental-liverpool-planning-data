@@ -14,7 +14,7 @@
     "description": "To install Ground Source Heat Pump, collector array, header pipe connection, landscaping and associated works",
     "determination_level": null,
     "development_type": "alterations to roads",
-    "extract_datetime": "2017-03-04 01:19:48.674188",
+    "extract_datetime": "2017-03-05 01:24:25.758402",
     "geo_easting": 341866,
     "geo_latitude": "53.3367894698705",
     "geo_longitude": "-2.87449972787688",
@@ -25,6 +25,6 @@
     "postcode": "L24 1XD",
     "received_date": "2017-02-08",
     "site_address": "Speke Hall, The Walk, Liverpool, L24 1XD",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1032181&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1032181&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Speke-Garston"
 }
