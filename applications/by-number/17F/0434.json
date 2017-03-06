@@ -14,7 +14,7 @@
     "description": "To reconfigure drive through lane to provide side by side order point, including new island for signage, alterations to existing elevations and additional drive thru unit.",
     "determination_level": null,
     "development_type": "alterations to building",
-    "extract_datetime": "2017-03-05 01:23:11.921229",
+    "extract_datetime": "2017-03-06 01:24:15.490370",
     "geo_easting": 336180,
     "geo_latitude": "53.4572817537658",
     "geo_longitude": "-2.96260853550281",
@@ -25,6 +25,6 @@
     "postcode": "L9 1GA",
     "received_date": "2017-02-07",
     "site_address": "McDonald's Restaurant, 6 Stoker Way, Liverpool , L9 1GA",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1032167&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1032167&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Warbreck"
 }
