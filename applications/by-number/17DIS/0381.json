@@ -14,7 +14,7 @@
     "description": "To discharge condition 2 attached to 13RM/2633",
     "determination_level": null,
     "development_type": "new building/structure(s)",
-    "extract_datetime": "2017-03-06 01:23:16.081381",
+    "extract_datetime": "2017-03-07 01:22:11.136899",
     "geo_easting": 334606,
     "geo_latitude": "53.4158552600171",
     "geo_longitude": "-2.98535484286112",
@@ -25,6 +25,6 @@
     "postcode": "L3 6EP",
     "received_date": "2017-02-06",
     "site_address": "41-43, Blackstock Street, Liverpool , L3 6EP",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1031700&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1031700&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Kirkdale"
 }
