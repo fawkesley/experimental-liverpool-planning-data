@@ -1,6 +1,6 @@
 {
     "agent": null,
-    "applicant": "Aimee Law",
+    "applicant": "Galliford Try Partnerships / South Liverpool Housing",
     "application_number": "17F/0351",
     "application_number_provisional": null,
     "application_type": "Full Planning Permission",
@@ -14,7 +14,7 @@
     "description": "To erect 26 dwellings with associated parking",
     "determination_level": null,
     "development_type": "res dev:10+ units/over 0.5ha",
-    "extract_datetime": "2017-03-08 01:21:48.403051",
+    "extract_datetime": "2017-03-09 01:21:12.408087",
     "geo_easting": 344562,
     "geo_latitude": "53.3387331158744",
     "geo_longitude": "-2.83404917778185",
@@ -24,7 +24,7 @@
     "planning_officer_name": "Joanne Mills",
     "postcode": null,
     "received_date": "2017-02-07",
-    "site_address": "Land between , Dam Wood Road and Hale Road, Liverpool, L24",
+    "site_address": "Land between Dam Wood Road and Hale Road, Liverpool, L24",
     "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1032160&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Speke-Garston"
 }
