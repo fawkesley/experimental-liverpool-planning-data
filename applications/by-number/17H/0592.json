@@ -14,7 +14,7 @@
     "description": "To erect first floor side extension",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2017-03-10 01:19:56.544623",
+    "extract_datetime": "2017-03-11 01:20:16.106984",
     "geo_easting": 341845,
     "geo_latitude": "53.3925549665453",
     "geo_longitude": "-2.87595854230872",
@@ -25,6 +25,6 @@
     "postcode": "L25 1PN",
     "received_date": "2017-02-27",
     "site_address": "59 Childwall Lane, Liverpool, L25 1PN",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036520&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036520&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Woolton"
 }

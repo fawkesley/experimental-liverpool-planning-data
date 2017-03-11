@@ -14,7 +14,7 @@
     "description": "To carry out tree works",
     "determination_level": null,
     "development_type": "Treeworks",
-    "extract_datetime": "2017-03-10 01:20:25.623092",
+    "extract_datetime": "2017-03-11 01:24:04.827469",
     "geo_easting": 338885,
     "geo_latitude": "53.3805633809269",
     "geo_longitude": "-2.92021130239524",
@@ -25,6 +25,6 @@
     "postcode": "L18 8AT",
     "received_date": "2017-02-28",
     "site_address": "Bedivere, Drewell Road, Liverpool, L18 8AT",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036530&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036530&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Greenbank"
 }
