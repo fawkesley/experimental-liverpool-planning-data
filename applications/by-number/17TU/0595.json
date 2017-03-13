@@ -14,7 +14,7 @@
     "description": "Tree removal to necessitate repair to damaged wall. Work carried out under R15(1)(a)(iii) of the Town and Country Planning (Tree Preservation)(England) Regulations 2012. Tree has high amenity hence replacement planting is required.",
     "determination_level": "Case Officer",
     "development_type": "Treeworks",
-    "extract_datetime": "2017-03-12 01:20:33.357762",
+    "extract_datetime": "2017-03-13 01:21:06.437498",
     "geo_easting": 339199,
     "geo_latitude": "53.3944582907422",
     "geo_longitude": "-2.91578905133158",
@@ -25,6 +25,6 @@
     "postcode": null,
     "received_date": "2017-03-09",
     "site_address": ", In graveyard adjacent to Prince Alfred Road",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1037380&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1037380&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Wavertree"
 }

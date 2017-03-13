@@ -14,7 +14,7 @@
     "description": "To erect single storey extensions at side and rear",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2017-03-12 01:22:38.044919",
+    "extract_datetime": "2017-03-13 01:20:37.919258",
     "geo_easting": 339541,
     "geo_latitude": "53.3833532114197",
     "geo_longitude": "-2.91040888421631",
@@ -25,6 +25,6 @@
     "postcode": "L18 5HR",
     "received_date": "2017-02-21",
     "site_address": "11 Edale Road, Liverpool, L18 5HR",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036380&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036380&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Church"
 }
