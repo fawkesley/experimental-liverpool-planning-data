@@ -14,7 +14,7 @@
     "description": "To display various signs and notices around ground floor unit.",
     "determination_level": null,
     "development_type": "advert: mixed/other",
-    "extract_datetime": "2017-03-13 01:23:02.401555",
+    "extract_datetime": "2017-03-14 01:24:44.839079",
     "geo_easting": 333890,
     "geo_latitude": "53.4056732759558",
     "geo_longitude": "-2.99588983458672",
@@ -25,6 +25,6 @@
     "postcode": "L3 1DG",
     "received_date": "2017-02-22",
     "site_address": "The Cunard Building, Ground Floor, Liverpool, L3 1DG",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1034662&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1034662&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Central"
 }
