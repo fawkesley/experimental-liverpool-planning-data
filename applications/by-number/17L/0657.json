@@ -14,7 +14,7 @@
     "description": "To carry out internal alterations.",
     "determination_level": null,
     "development_type": "alterations to building",
-    "extract_datetime": "2017-03-15 01:20:47.519580",
+    "extract_datetime": "2017-03-16 01:23:41.354532",
     "geo_easting": 334277,
     "geo_latitude": "53.4070787567838",
     "geo_longitude": "-2.99010106797288",
@@ -25,6 +25,6 @@
     "postcode": "L2 4SX",
     "received_date": "2017-02-28",
     "site_address": "Sweeting Street, Liverpool, L2 4SX",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036527&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036527&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Central"
 }

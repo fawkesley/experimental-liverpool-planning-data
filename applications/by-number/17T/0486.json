@@ -14,7 +14,7 @@
     "description": "To carry out tree works",
     "determination_level": null,
     "development_type": "Treeworks",
-    "extract_datetime": "2017-03-15 01:22:41.019578",
+    "extract_datetime": "2017-03-16 01:22:27.026733",
     "geo_easting": 338870,
     "geo_latitude": "53.3703159687456",
     "geo_longitude": "-2.92021581533456",
@@ -25,6 +25,6 @@
     "postcode": "L17 6BD",
     "received_date": "2017-02-16",
     "site_address": "I M Marsh Campus, Barkhill Road, Liverpool, L17 6BD",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1034260&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1034260&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Mossley Hill"
 }

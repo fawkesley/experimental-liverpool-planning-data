@@ -14,7 +14,7 @@
     "description": "To install railway infrastructure equipment structures following removal of existing cabins and oil store.  Infilling of redundant service tunnel subway.",
     "determination_level": null,
     "development_type": "Unknown",
-    "extract_datetime": "2017-03-15 01:23:02.776488",
+    "extract_datetime": "2017-03-16 01:21:47.446887",
     "geo_easting": 335100,
     "geo_latitude": "53.4077559579464",
     "geo_longitude": "-2.97773630405407",
@@ -25,6 +25,6 @@
     "postcode": "L1 1JF",
     "received_date": "2017-02-24",
     "site_address": "Lime Street Station, Lime Street, Liverpool, L1 1JF",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1037300&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1037300&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Central"
 }
