@@ -14,7 +14,7 @@
     "description": "To discharge conditions 8,11,13 and 15 attached to 15F/1718",
     "determination_level": null,
     "development_type": "New Building (Dwelling)",
-    "extract_datetime": "2017-03-17 01:18:02.514760",
+    "extract_datetime": "2017-03-18 01:20:54.086790",
     "geo_easting": 336639,
     "geo_latitude": "53.415411729876",
     "geo_longitude": "-2.95475645303231",
@@ -25,6 +25,6 @@
     "postcode": "L6 9DF",
     "received_date": "2017-02-20",
     "site_address": "Former 69, Boaler Street, Liverpool, L6 9DF",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1034180&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1034180&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Kensington and Fairfield"
 }

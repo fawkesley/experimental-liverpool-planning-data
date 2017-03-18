@@ -14,7 +14,7 @@
     "description": "To replace existing flat roof to pitched on main house and side extension",
     "determination_level": null,
     "development_type": "extension/alt(s) to roof",
-    "extract_datetime": "2017-03-17 01:21:18.779460",
+    "extract_datetime": "2017-03-18 01:20:37.399444",
     "geo_easting": 341186,
     "geo_latitude": "53.3958701234569",
     "geo_longitude": "-2.88593721243668",
@@ -25,6 +25,6 @@
     "postcode": "L16 7QF",
     "received_date": "2017-03-02",
     "site_address": "48 South Barcombe Road, Liverpool, L16 7QF",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036544&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036544&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Childwall"
 }

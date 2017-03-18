@@ -14,7 +14,7 @@
     "description": "To remove dangerous branch. Works exempt under S198(6)(a) og T&CPA 1990.",
     "determination_level": "Case Officer",
     "development_type": "Treeworks",
-    "extract_datetime": "2017-03-17 01:23:00.725249",
+    "extract_datetime": "2017-03-18 01:25:35.501568",
     "geo_easting": 337444,
     "geo_latitude": "53.3697174029201",
     "geo_longitude": "-2.94163519725665",
@@ -25,6 +25,6 @@
     "postcode": "L17 5AD",
     "received_date": "2017-03-03",
     "site_address": "17A Fulwood Park, Liverpool, L17 5AD",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036500&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036500&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "St Michael's"
 }

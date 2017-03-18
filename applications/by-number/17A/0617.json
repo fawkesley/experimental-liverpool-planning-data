@@ -14,7 +14,7 @@
     "description": "To display 3no. illuminated fascia signs and 1no. projecting sign",
     "determination_level": null,
     "development_type": "change of use (inc buildings)",
-    "extract_datetime": "2017-03-17 01:22:05.516906",
+    "extract_datetime": "2017-03-18 01:25:25.313904",
     "geo_easting": 342433,
     "geo_latitude": "53.3755431745303",
     "geo_longitude": "-2.86677071995716",
@@ -25,6 +25,6 @@
     "postcode": "L25 7RB",
     "received_date": "2017-03-02",
     "site_address": "Former HSBC Bank, 1 Woolton Street & 3 Allerton Road, Liverpool, L25 7RB",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1037640&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1037640&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Woolton"
 }

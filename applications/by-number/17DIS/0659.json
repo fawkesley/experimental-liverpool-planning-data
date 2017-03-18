@@ -6,7 +6,7 @@
     "application_type": "Discharge of Conditions",
     "case_officer_name": "Barbara Kirkbride",
     "case_officer_number": "01512333021",
-    "comments_until_date": "2017-03-01",
+    "comments_until_date": "2017-04-07",
     "committee_date": null,
     "current_status": "REGISTERED",
     "decision": null,
@@ -14,7 +14,7 @@
     "description": "To discharge conditions 3, 7 and 15 attached to 16F/0413.",
     "determination_level": null,
     "development_type": "condition: (removal of)",
-    "extract_datetime": "2017-03-17 01:19:19.570494",
+    "extract_datetime": "2017-03-18 01:20:11.643036",
     "geo_easting": 334587,
     "geo_latitude": "53.3983637806439",
     "geo_longitude": "-2.98523635407481",
@@ -25,6 +25,6 @@
     "postcode": "L1 8DN",
     "received_date": "2017-02-28",
     "site_address": "Land at Hurst Street, Liverpool, L1 8DN",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036532&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036532&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Riverside"
 }
