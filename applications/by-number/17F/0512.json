@@ -14,7 +14,7 @@
     "description": "To change use from retail to restaurant/bar/hot food takeaway (use class A3/A4/A5) opening between 0800 and 2300 hours and erect extraction flue to rear",
     "determination_level": null,
     "development_type": "change of use (inc buildings)",
-    "extract_datetime": "2017-03-19 01:17:53.479929",
+    "extract_datetime": "2017-03-20 01:24:30.748793",
     "geo_easting": 336736,
     "geo_latitude": "53.3801122276872",
     "geo_longitude": "-2.95250817913143",
@@ -25,6 +25,6 @@
     "postcode": "L17 7BN",
     "received_date": "2017-02-20",
     "site_address": "92 - 96 Aigburth Road, Liverpool, L17 7BN",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036060&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036060&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "St Michael's"
 }

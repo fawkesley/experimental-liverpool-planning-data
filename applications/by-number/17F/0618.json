@@ -14,7 +14,7 @@
     "description": "To erect two storey extension at side and rear",
     "determination_level": null,
     "development_type": "extension/addition: 2-storey",
-    "extract_datetime": "2017-03-19 01:18:22.154612",
+    "extract_datetime": "2017-03-20 01:24:23.998408",
     "geo_easting": 340245,
     "geo_latitude": "53.4070435080952",
     "geo_longitude": "-2.90032465909571",
@@ -25,6 +25,6 @@
     "postcode": "L14 3ND",
     "received_date": "2017-02-27",
     "site_address": "11 Bowring Park Road, Liverpool, L14 3ND",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036523&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036523&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Knotty Ash"
 }
