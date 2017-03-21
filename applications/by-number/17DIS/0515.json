@@ -14,7 +14,7 @@
     "description": "To discharge conditions 3, 4, 5 and 8 attached to 16F/1538.",
     "determination_level": null,
     "development_type": "Unknown",
-    "extract_datetime": "2017-03-20 01:20:42.504023",
+    "extract_datetime": "2017-03-21 01:20:04.094178",
     "geo_easting": 338020,
     "geo_latitude": "53.4679090833835",
     "geo_longitude": "-2.93513064496607",
@@ -25,6 +25,6 @@
     "postcode": null,
     "received_date": "2017-02-23",
     "site_address": "Aintree University Hospital, Lower Lane, Liverpool 9",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1034880&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1034880&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Fazakerley"
 }
