@@ -14,7 +14,7 @@
     "description": "Application for prior approval to replace GPDO 4th generation equipment including 20m tower.",
     "determination_level": null,
     "development_type": "aerial/mast",
-    "extract_datetime": "2017-03-22 01:18:56.661479",
+    "extract_datetime": "2017-03-23 01:24:33.632973",
     "geo_easting": 335402,
     "geo_latitude": "53.4103544372818",
     "geo_longitude": "-2.97325261344617",
@@ -25,6 +25,6 @@
     "postcode": "L3 8LX",
     "received_date": "2017-02-27",
     "site_address": "Craven Street, Liverpool, L3 8LX",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1037740&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1037740&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Central"
 }
