@@ -14,7 +14,7 @@
     "description": "To carry out garage conversion and erect single storey extension to the side, canopy roof to the front.",
     "determination_level": null,
     "development_type": "conversion (not COU), extension/addition: 1-storey",
-    "extract_datetime": "2017-03-24 01:21:48.831736",
+    "extract_datetime": "2017-03-25 01:20:32.174908",
     "geo_easting": 339681,
     "geo_latitude": "53.4366825576872",
     "geo_longitude": "-2.90944125587504",
@@ -25,6 +25,6 @@
     "postcode": "L12 5EU",
     "received_date": "2017-03-09",
     "site_address": "9 Glentrees Road, Liverpool , L12 5EU",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1037321&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1037321&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "West Derby"
 }

@@ -14,7 +14,7 @@
     "description": "To change use from retail (A1 Use) to restaurant (A3 Use).",
     "determination_level": null,
     "development_type": "change of use (inc buildings)",
-    "extract_datetime": "2017-03-24 01:22:04.029765",
+    "extract_datetime": "2017-03-25 01:21:35.516272",
     "geo_easting": 334681,
     "geo_latitude": "53.4062752106176",
     "geo_longitude": "-2.98400519051361",
@@ -25,6 +25,6 @@
     "postcode": "L1 1EF",
     "received_date": "2017-02-28",
     "site_address": "20/20A Richmond Street, Liverpool, L1 1EF",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1038000&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1038000&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Central"
 }
