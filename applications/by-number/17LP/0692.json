@@ -14,7 +14,7 @@
     "description": "Application for Lawful Development Certificate for proposed conversion of part garage to provide utility room and WC alterations of lean-to roof to flat roof",
     "determination_level": "Case Officer",
     "development_type": "alterations to house/flat",
-    "extract_datetime": "2017-03-27 01:24:30.884419",
+    "extract_datetime": "2017-03-28 01:23:40.484125",
     "geo_easting": 341040,
     "geo_latitude": "53.3602363083752",
     "geo_longitude": "-2.88739154018577",
@@ -25,6 +25,6 @@
     "postcode": "L19 5NF",
     "received_date": "2017-03-06",
     "site_address": "168 Woolton Road, Liverpool, L19 5NF",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036801&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1036801&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Allerton and Hunts Cross"
 }

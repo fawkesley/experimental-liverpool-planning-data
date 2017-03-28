@@ -14,7 +14,7 @@
     "description": "To erect single storey extension to the rear. \r\n- The extension will extend 5.5m beyond the original house \r\n-The maximum height of the extension will be 3.5m \r\n-The height of the extension to the eaves will be 3.5m",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2017-03-27 01:24:34.874029",
+    "extract_datetime": "2017-03-28 01:20:46.635347",
     "geo_easting": 340124,
     "geo_latitude": "53.3774340841462",
     "geo_longitude": "-2.90151874294478",
@@ -25,6 +25,6 @@
     "postcode": "L18 6JU",
     "received_date": "2017-03-13",
     "site_address": "16 Burnham Road, Liverpool, L18 6JU",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1038660&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1038660&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Church"
 }
