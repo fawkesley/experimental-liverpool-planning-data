@@ -14,7 +14,7 @@
     "description": "To erect plant in connection with retail building currently under construction",
     "determination_level": null,
     "development_type": "new building/structure(s)",
-    "extract_datetime": "2017-03-29 01:18:44.339623",
+    "extract_datetime": "2017-03-30 01:25:20.356890",
     "geo_easting": 339556,
     "geo_latitude": "53.358585475502",
     "geo_longitude": "-2.9096553684488",
@@ -25,6 +25,6 @@
     "postcode": "L19 0NF",
     "received_date": "2017-03-24",
     "site_address": "Cressington House, 249 St Marys Road, Liverpool, L19 0NF",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1040066&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1040066&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Cressington"
 }

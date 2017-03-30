@@ -14,7 +14,7 @@
     "description": "Felling of 1 Beech, 1 Oak, 1 Horse Chestnut, 1 Birch and 1 Cherry in Sefton Park, opposite People's Hall as excepted works due to storm damage.",
     "determination_level": "Case Officer",
     "development_type": "Treeworks",
-    "extract_datetime": "2017-03-29 01:21:01.219873",
+    "extract_datetime": "2017-03-30 01:19:47.799817",
     "geo_easting": 338039,
     "geo_latitude": "53.3764293140035",
     "geo_longitude": "-2.93283923702351",
@@ -25,6 +25,6 @@
     "postcode": "L17 0DG",
     "received_date": "2017-03-14",
     "site_address": "Aigburth Peoples Hall, Aigburth Vale, Liverpool, L17 0DG",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1038620&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1038620&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "St Michael's"
 }
