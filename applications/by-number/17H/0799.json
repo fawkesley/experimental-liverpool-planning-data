@@ -14,7 +14,7 @@
     "description": "To erect 2 storey extension at rear and single storey at side and rear",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey, extension/addition: 2-storey",
-    "extract_datetime": "2017-03-31 01:21:16.066928",
+    "extract_datetime": "2017-04-02 01:23:00.180368",
     "geo_easting": 340564,
     "geo_latitude": "53.370590446828",
     "geo_longitude": "-2.8947610269468",
@@ -25,6 +25,6 @@
     "postcode": "L18 9UL",
     "received_date": "2017-03-20",
     "site_address": "3 Clandon Road, Liverpool, L18 9UL",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1038720&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1038720&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Allerton and Hunts Cross"
 }

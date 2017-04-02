@@ -14,7 +14,7 @@
     "description": "To erect single storey extension at rear\r\n- The extension will extend 5m beyond the original house \r\n-The maximum height of the extension will be 3.61m \r\n-The height of the extension to the eaves will be 2.10m",
     "determination_level": "Case Officer",
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2017-03-31 01:20:42.348370",
+    "extract_datetime": "2017-04-02 01:26:00.121981",
     "geo_easting": 340369,
     "geo_latitude": "53.3505891986401",
     "geo_longitude": "-2.89727146115663",
@@ -25,6 +25,6 @@
     "postcode": "L19 8LZ",
     "received_date": "2017-03-14",
     "site_address": "3 Leeming Grove, Liverpool, L19 8LZ",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1038440&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1038440&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Speke-Garston"
 }
