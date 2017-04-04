@@ -14,7 +14,7 @@
     "description": "To erect single storey extension to the rear. \r\n- The extension will extend 4.8m beyond the original house \r\n-The maximum height of the extension will be 3.8m \r\n-The height of the extension to the eaves will be 2.3m",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2017-04-03 01:23:21.187308",
+    "extract_datetime": "2017-04-04 01:25:31.669547",
     "geo_easting": 339980,
     "geo_latitude": "53.3874656992657",
     "geo_longitude": "-2.90389590239477",
@@ -25,6 +25,6 @@
     "postcode": "L18 2EH",
     "received_date": "2017-03-27",
     "site_address": "59 Menlove Avenue, Liverpool, L18 2EH",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1040540&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1040540&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Church"
 }
