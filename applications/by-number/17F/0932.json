@@ -14,7 +14,7 @@
     "description": "To retain ATM",
     "determination_level": null,
     "development_type": "alterations to building",
-    "extract_datetime": "2017-04-07 01:21:10.023966",
+    "extract_datetime": "2017-04-08 01:23:12.413723",
     "geo_easting": 338197,
     "geo_latitude": "53.3909265445081",
     "geo_longitude": "-2.93078040841019",
@@ -25,6 +25,6 @@
     "postcode": "L15 3JL",
     "received_date": "2017-04-03",
     "site_address": "411-415 Smithdown Road, Liverpool, L15 3JL",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1041302&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1041302&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Greenbank"
 }

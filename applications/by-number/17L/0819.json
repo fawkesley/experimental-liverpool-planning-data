@@ -14,7 +14,7 @@
     "description": "To make alterations to the roof at the rear and third floor level, to provide a balcony and dormer extension to the front.",
     "determination_level": null,
     "development_type": "alterations to building",
-    "extract_datetime": "2017-04-07 01:20:45.887809",
+    "extract_datetime": "2017-04-08 01:21:33.701661",
     "geo_easting": 335357,
     "geo_latitude": "53.401307745941",
     "geo_longitude": "-2.9737229301908",
@@ -25,6 +25,6 @@
     "postcode": "L1 9AA",
     "received_date": "2017-03-27",
     "site_address": "44 Rodney Street, Liverpool, L1 9AA",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1040280&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1040280&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Riverside"
 }
