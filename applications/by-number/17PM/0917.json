@@ -14,7 +14,7 @@
     "description": "To make alterations to existing bridge (Raise height of parapet by 275mm)",
     "determination_level": null,
     "development_type": "demolition",
-    "extract_datetime": "2017-04-10 01:20:25.527064",
+    "extract_datetime": "2017-04-11 01:24:12.905337",
     "geo_easting": 336596,
     "geo_latitude": "53.4057631933265",
     "geo_longitude": "-2.95518716505336",
@@ -25,6 +25,6 @@
     "postcode": null,
     "received_date": "2017-03-30",
     "site_address": "Rail Bridge, Wavertree Nook Road, Liverpool, L15",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1041760&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1041760&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Childwall, Picton"
 }
