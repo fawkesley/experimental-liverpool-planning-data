@@ -14,7 +14,7 @@
     "description": "To carry out tree works",
     "determination_level": null,
     "development_type": "Treeworks",
-    "extract_datetime": "2017-04-14 01:19:50.294245",
+    "extract_datetime": "2017-04-16 01:20:03.381411",
     "geo_easting": 338372,
     "geo_latitude": "53.3753089538129",
     "geo_longitude": "-2.92780921755687",
@@ -25,6 +25,6 @@
     "postcode": "L17 0DJ",
     "received_date": "2017-04-04",
     "site_address": "Sycamore Lodge, 50 Elmswood Road, Liverpool, L17 0DJ",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1041961&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1041961&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Mossley Hill"
 }

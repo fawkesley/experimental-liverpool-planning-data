@@ -14,7 +14,7 @@
     "description": "To erect two storey extension at side, single storey extension at rear and porch at front",
     "determination_level": null,
     "development_type": "extension/addition: 2-storey",
-    "extract_datetime": "2017-04-14 01:20:44.647081",
+    "extract_datetime": "2017-04-16 01:23:45.555454",
     "geo_easting": 338771,
     "geo_latitude": "53.3675453432433",
     "geo_longitude": "-2.9216439479702",
@@ -25,6 +25,6 @@
     "postcode": "L19 3PH",
     "received_date": "2017-04-03",
     "site_address": "25 Cheyne Gardens, Liverpool, L19 3PH",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1042000&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1042000&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Mossley Hill"
 }
