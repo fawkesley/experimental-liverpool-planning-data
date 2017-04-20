@@ -14,7 +14,7 @@
     "description": "To replace telephone kiosk",
     "determination_level": null,
     "development_type": "Unknown",
-    "extract_datetime": "2017-04-19 01:18:36.912451",
+    "extract_datetime": "2017-04-20 01:24:46.886343",
     "geo_easting": 338441,
     "geo_latitude": "53.389436225988",
     "geo_longitude": "-2.92707895751177",
@@ -25,6 +25,6 @@
     "postcode": "L18 1HN",
     "received_date": "2017-04-07",
     "site_address": "Telephone Kiosk, o/s 2 Greenbank Rd, Liverpool, L18 1HN",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1042167&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1042167&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Greenbank"
 }

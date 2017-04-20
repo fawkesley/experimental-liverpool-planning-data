@@ -14,7 +14,7 @@
     "description": "To use property as 7 bedroom house in multiple occupation.",
     "determination_level": null,
     "development_type": "Unknown",
-    "extract_datetime": "2017-04-19 01:19:43.559403",
+    "extract_datetime": "2017-04-20 01:24:13.740853",
     "geo_easting": 338052,
     "geo_latitude": "53.3967153671963",
     "geo_longitude": "-2.93308743693368",
@@ -25,6 +25,6 @@
     "postcode": "L15 0EF",
     "received_date": "2017-03-30",
     "site_address": "89 Lawrence Road, Liverpool, L15 0EF",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1041680&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1041680&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Picton"
 }
