@@ -14,7 +14,7 @@
     "description": "To discharge condition 10 attached to 16F/0891.",
     "determination_level": null,
     "development_type": "condition: (removal of)",
-    "extract_datetime": "2017-04-21 01:21:47.670992",
+    "extract_datetime": "2017-04-23 01:25:35.750392",
     "geo_easting": 335247,
     "geo_latitude": "53.4064619079815",
     "geo_longitude": "-2.97549535169782",
@@ -25,6 +25,6 @@
     "postcode": "L3 5LJ",
     "received_date": "2017-03-29",
     "site_address": "Site bounded by Russell Street, Warren Street, Old Royal Mail Sorting Office on Copperas Hill and Lime Street Railway Cutting, Liverpool, L3 5LJ",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1040480&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1040480&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Central"
 }

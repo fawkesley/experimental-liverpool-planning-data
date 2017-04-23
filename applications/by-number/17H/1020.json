@@ -14,7 +14,7 @@
     "description": "To install skylight windows at rear",
     "determination_level": null,
     "development_type": "window(s) (replacement/new)",
-    "extract_datetime": "2017-04-21 01:20:56.141718",
+    "extract_datetime": "2017-04-23 01:21:15.108259",
     "geo_easting": 336007,
     "geo_latitude": "53.3952128137936",
     "geo_longitude": "-2.96380861536549",
@@ -25,6 +25,6 @@
     "postcode": "L8 1TS",
     "received_date": "2017-04-11",
     "site_address": "13 Park Way, Liverpool, L8 1TS",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1042604&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1042604&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Princes Park"
 }
