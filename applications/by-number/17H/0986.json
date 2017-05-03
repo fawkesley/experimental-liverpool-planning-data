@@ -14,7 +14,7 @@
     "description": "To erect part two storey/part single storey extension to side, two storey extension to side single storey extension at rear upon demolition of existing conservatory and alter width of garage door",
     "determination_level": null,
     "development_type": "extension/addition: 2-storey",
-    "extract_datetime": "2017-04-24 01:19:35.357231",
+    "extract_datetime": "2017-05-03 01:24:51.047966",
     "geo_easting": 340047,
     "geo_latitude": "53.3687434295811",
     "geo_longitude": "-2.90249244424552",
@@ -25,6 +25,6 @@
     "postcode": "L18 9XN",
     "received_date": "2017-04-05",
     "site_address": "10 Appletree Close, Liverpool, L18 9XN",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1041800&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1041800&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Cressington"
 }
