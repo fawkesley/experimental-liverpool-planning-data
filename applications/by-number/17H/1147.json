@@ -14,7 +14,7 @@
     "description": "To erect two storey extension at side and rear, single storey extension at rear and dormer extension at rear",
     "determination_level": null,
     "development_type": "extension/addition: 2-storey",
-    "extract_datetime": "2017-05-03 01:19:18.312741",
+    "extract_datetime": "2017-05-05 01:20:17.271021",
     "geo_easting": 339938,
     "geo_latitude": "53.3949654351226",
     "geo_longitude": "-2.90468647303317",
@@ -25,6 +25,6 @@
     "postcode": "L15 6XB",
     "received_date": "2017-04-27",
     "site_address": "11 Banstead Grove, Liverpool, L15 6XB",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1044920&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1044920&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Wavertree"
 }

@@ -14,7 +14,7 @@
     "description": "Application for prior approval for telephone kiosk.",
     "determination_level": null,
     "development_type": "Unknown",
-    "extract_datetime": "2017-05-03 01:23:29.982850",
+    "extract_datetime": "2017-05-05 01:23:49.655922",
     "geo_easting": 339484,
     "geo_latitude": "53.413751113583",
     "geo_longitude": "-2.91191571555738",
@@ -25,6 +25,6 @@
     "postcode": "L13 5UX",
     "received_date": "2017-04-07",
     "site_address": "Outside Card Warehouse, 547 Prescot Road, Liverpool, L13 5UX",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1042161&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1042161&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Old Swan"
 }

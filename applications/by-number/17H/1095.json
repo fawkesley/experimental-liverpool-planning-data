@@ -14,7 +14,7 @@
     "description": "To erect single storey extension at side and rear",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2017-05-03 01:19:30.258554",
+    "extract_datetime": "2017-05-05 01:24:25.595717",
     "geo_easting": 340398,
     "geo_latitude": "53.3863986778708",
     "geo_longitude": "-2.89758845737786",
@@ -25,6 +25,6 @@
     "postcode": "L18 3HA",
     "received_date": "2017-04-20",
     "site_address": "12 Gwydrin Road, Liverpool, L18 3HA",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1044380&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1044380&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Church"
 }
