@@ -14,7 +14,7 @@
     "description": "To erect single storey extension at rear\r\n- The extension will extend 3.3m beyond the original house \r\n- The maximum height of the extension will be 3.95m \r\n- The height of the extension to the eaves will be 2.5m",
     "determination_level": null,
     "development_type": "extension/addition: 1-storey",
-    "extract_datetime": "2017-05-06 01:18:50.600988",
+    "extract_datetime": "2017-05-07 01:24:39.922787",
     "geo_easting": 342632,
     "geo_latitude": "53.3942050522525",
     "geo_longitude": "-2.86415736471942",
@@ -25,6 +25,6 @@
     "postcode": "L25 2SU",
     "received_date": "2017-04-25",
     "site_address": "2 Marlbrook Road, Liverpool, L25 2SU",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1044301&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1044301&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Belle Vale"
 }

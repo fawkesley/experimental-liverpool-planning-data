@@ -14,7 +14,7 @@
     "description": "To demolish existing wc and rebuild disabled wc",
     "determination_level": null,
     "development_type": "new building/structure(s)",
-    "extract_datetime": "2017-05-06 01:20:28.949245",
+    "extract_datetime": "2017-05-07 01:19:22.737281",
     "geo_easting": 342042,
     "geo_latitude": "53.372507492759",
     "geo_longitude": "-2.87258601912966",
@@ -25,6 +25,6 @@
     "postcode": "L25 7RH",
     "received_date": "2017-04-19",
     "site_address": "120A Allerton Road, Liverpool, L25 7RH",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1044040&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1044040&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Woolton"
 }

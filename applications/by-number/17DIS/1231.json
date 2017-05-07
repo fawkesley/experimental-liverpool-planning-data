@@ -14,7 +14,7 @@
     "description": "To discharge conditions 3, 5, 7, 11, 14, 15, 18 & 19 in respect of 17F/0006",
     "determination_level": null,
     "development_type": "condition: (removal of)",
-    "extract_datetime": "2017-05-06 01:20:13.648020",
+    "extract_datetime": "2017-05-07 01:21:23.134993",
     "geo_easting": 343463,
     "geo_latitude": "53.3424453288714",
     "geo_longitude": "-2.85062857328766",
@@ -25,6 +25,6 @@
     "postcode": "L24 0TP",
     "received_date": "2017-05-04",
     "site_address": "Vacant Land at Former Speke Community Comprehensive School, Central Avenue, Liverpool, L24 0TP",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1045822&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1045822&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Speke-Garston"
 }

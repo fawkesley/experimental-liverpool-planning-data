@@ -14,7 +14,7 @@
     "description": "To fell Sycamore with compromised root plate under exempt works- S198(6)(a) of the T&CP Act 1990.",
     "determination_level": "Case Officer",
     "development_type": "Treeworks",
-    "extract_datetime": "2017-05-06 01:22:36.829595",
+    "extract_datetime": "2017-05-07 01:23:06.074030",
     "geo_easting": 338867,
     "geo_latitude": "53.3793120422994",
     "geo_longitude": "-2.9204549105247",
@@ -25,6 +25,6 @@
     "postcode": "L18 8DJ",
     "received_date": "2017-04-21",
     "site_address": "Elmswood Court, Liverpool, L18 8DJ",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1043520&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1043520&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Greenbank"
 }
