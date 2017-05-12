@@ -6,7 +6,7 @@
     "application_type": "Listed Building",
     "case_officer_name": "Barbara Richards",
     "case_officer_number": "01512333021",
-    "comments_until_date": "2017-05-25",
+    "comments_until_date": "2017-06-08",
     "committee_date": null,
     "current_status": "REGISTERED",
     "decision": null,
@@ -14,7 +14,7 @@
     "description": "To carry out alterations in connection with change of use of ground floors of Unit 1 and 2a to cafe.",
     "determination_level": null,
     "development_type": "change of use (inc buildings)",
-    "extract_datetime": "2017-05-08 01:21:40.244530",
+    "extract_datetime": "2017-05-12 01:24:51.683949",
     "geo_easting": 334025,
     "geo_latitude": "53.3996238371821",
     "geo_longitude": "-2.99371809874859",
@@ -24,7 +24,7 @@
     "planning_officer_name": "Barbara Richards",
     "postcode": "L3 4AA",
     "received_date": "2017-03-23",
-    "site_address": "1 The Colonnades, Gower Street, Liverpool, L3 4AA",
+    "site_address": "Ground floor of units 1 and 2a The Colonnades, Gower Street, Liverpool, L3 4AA  **Amended site address**",
     "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1042360&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Riverside"
 }

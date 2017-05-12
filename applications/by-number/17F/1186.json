@@ -14,7 +14,7 @@
     "description": "To replace existing communal apartment entrances within retained openings at 24 and 26 North John Street and associated internal works.",
     "determination_level": null,
     "development_type": "means of enclosure",
-    "extract_datetime": "2017-05-08 01:23:14.993344",
+    "extract_datetime": "2017-05-12 01:20:13.041206",
     "geo_easting": 334357,
     "geo_latitude": "53.4060731754641",
     "geo_longitude": "-2.98887430875921",
@@ -25,6 +25,6 @@
     "postcode": "L2 9RP",
     "received_date": "2017-04-24",
     "site_address": "Harrington Chambers, 24 North John Street, Liverpool, L2 9RP",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1043940&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1043940&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Central"
 }

@@ -14,7 +14,7 @@
     "description": "To erect 4 dwelling houses.",
     "determination_level": "Withdrawn-Council",
     "development_type": "New Building (Dwelling)",
-    "extract_datetime": "2017-05-08 01:23:19.780443",
+    "extract_datetime": "2017-05-12 01:20:15.103635",
     "geo_easting": 334660,
     "geo_latitude": "53.4274824045236",
     "geo_longitude": "-2.98481108755918",
@@ -25,6 +25,6 @@
     "postcode": "L5 7SB",
     "received_date": "2017-04-24",
     "site_address": "Land, Heriot Street, Liverpool , L5 7SB",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1043900&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1043900&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Kirkdale"
 }
