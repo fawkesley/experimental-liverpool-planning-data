@@ -1,6 +1,6 @@
 {
     "agent": null,
-    "applicant": "Mr John Doyle",
+    "applicant": "W F Doyle Holdings Ltd",
     "application_number": "17F/1259",
     "application_number_provisional": null,
     "application_type": "Full Planning Permission",
@@ -14,7 +14,7 @@
     "description": "To change use of of land and buildings to (B8)",
     "determination_level": null,
     "development_type": "change of use (no building)",
-    "extract_datetime": "2017-05-14 01:22:10.513855",
+    "extract_datetime": "2017-05-15 01:19:51.824148",
     "geo_easting": 333869,
     "geo_latitude": "53.4356158717122",
     "geo_longitude": "-2.99690608410136",
