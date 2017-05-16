@@ -14,7 +14,7 @@
     "description": "To use premises as gym.",
     "determination_level": null,
     "development_type": "change of use (inc buildings)",
-    "extract_datetime": "2017-05-15 01:20:04.541656",
+    "extract_datetime": "2017-05-16 01:20:03.509318",
     "geo_easting": 335080,
     "geo_latitude": "53.4250988287519",
     "geo_longitude": "-2.97843529912828",
@@ -25,6 +25,6 @@
     "postcode": null,
     "received_date": "2017-04-18",
     "site_address": "Block A, East of Great Homer Street, Buckingham Street and Conway Street",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1043100&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1043100&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
     "wards": "Everton"
 }
