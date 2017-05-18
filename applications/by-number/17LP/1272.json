@@ -14,7 +14,7 @@
     "description": "Application for Lawful Development Certificate for proposed convenience store with store room",
     "determination_level": null,
     "development_type": "change of use (inc buildings)",
-    "extract_datetime": "2017-05-17 01:23:11.035818",
+    "extract_datetime": "2017-05-18 01:24:13.567221",
     "geo_easting": 335247,
     "geo_latitude": "53.4345649461838",
     "geo_longitude": "-2.97613900179547",
@@ -25,6 +25,6 @@
     "postcode": "L4 4LW",
     "received_date": "2017-05-08",
     "site_address": "115-121 Westminster Road, LIVERPOOL, L4 4LW",
-    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1046241&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/Menus/PL.xml&DAURI=PLANNING",
+    "url": "http://northgate.liverpool.gov.uk/PlanningExplorer17/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=1046241&XSLT=/PlanningExplorer17/SiteFiles/Skins/Liverpool_WIP/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=&DAURI=PLANNING",
     "wards": "Kirkdale"
 }
